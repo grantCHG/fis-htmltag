@@ -1,0 +1,19 @@
+{
+  "name": "fis-htmltag",
+  "version": "1.0.0",
+  "description": "a fis plugin that add mark tag fot html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantCHG/fis-htmltag.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grantCHG/fis-htmltag/issues"
+  },
+  "homepage": "https://github.com/grantCHG/fis-htmltag#readme"
+}
