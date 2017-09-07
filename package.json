@@ -1,5 +1,5 @@
 {
-  "name": "fis-htmltag",
+  "name": "fis-postpackager-htmltag",
   "version": "1.0.0",
   "description": "a fis plugin that add mark tag fot html",
   "main": "index.js",
